@@ -31,6 +31,6 @@
     "merge-graphql-schemas": "^1.5.8",
     "pg": "^7.10.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^5.8.5"
+    "sequelize": "^5.15.1"
   }
 }
